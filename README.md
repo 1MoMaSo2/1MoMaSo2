@@ -134,13 +134,13 @@ final class About extends Developer
 
 ### :bar_chart: GitHub Stats
 
-![](https://github-stats-extended.vercel.app/api?username=1momaso2&show_icons=true&theme=tokyonight)
-![](https://github-stats-extended.vercel.app/api/top-langs/?username=1momaso2&size_weight=0.5&count_weight=0.5)
+![](https://github-stats-extended.vercel.app/api?username=1MoMaSo2&show_icons=true&theme=tokyonight)
+![](https://github-stats-extended.vercel.app/api/top-langs/?username=1MoMaSo2&size_weight=0.5&count_weight=0.5)
 
 <sub>────────────────────────────────────────────────────────────────────────</sub>
 
 ### :fire: Streak Stats
 
-![](https://gstats.rondrft.workers.dev/api?username=1momaso2)
+![](https://gstats.rondrft.workers.dev/api?username=1MoMaSo2)
 
 ---
