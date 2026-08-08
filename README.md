@@ -20,33 +20,6 @@ I'm passionate about building web applications , learning new technologies , and
 
 ---
 
-```php
-<?php
-
-namespace MohammadMahdi;
-
-final class About extends Developer
-{
-    public function techStack(): array
-    {
-        return [
-            Php::class,
-            Laravel::class,
-            MySql::class,
-            Github::class,
-            Git::class,
-        ];
-    }
-
-    public function mission(): string
-    {
-        return 'Turning ideas into real-world projects.';
-    }
-}
-```
-
----
-
 <div align="center">✦ Explore My Portfolio
 
 A digital space where code meets creativity.
