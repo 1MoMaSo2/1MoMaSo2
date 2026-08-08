@@ -47,6 +47,16 @@ final class About extends Developer
 
 ---
 
+<div align="center">✦ Explore My Portfolio
+
+A digital space where code meets creativity.
+
+<a href="https://1momaso2.github.io/mohammadmahdisoveyzi-portfolio/">
+  <img src="https://img.shields.io/badge/🚀_ENTER_MY_PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Enter My Portfolio">
+</a></div>
+
+---
+
 ### :man::computer: About Me
 
 - 💼 Aspiring Software Engineer
