@@ -20,7 +20,7 @@ I'm passionate about building web applications , learning new technologies , and
 
 ---
 
-<div align="center">✦ Explore My Portfolio
+<div align="center">✦ Explore My Portfolio ✦
 
 A digital space where code meets creativity.
 
